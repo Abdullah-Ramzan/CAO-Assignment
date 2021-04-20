@@ -10,3 +10,8 @@ The main components used in this assignemnt were:
 The Output of the Code is as follows:
 
 
+
+![image](https://user-images.githubusercontent.com/62289290/115368585-a7821b00-a1e0-11eb-96ed-71ac85d31115.png)
+
+
+
