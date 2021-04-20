@@ -9,6 +9,7 @@ This Repository holds our main code for displying the Logo "NUST" on screen.
 The main components used in this assignemnt were:
 1. Docker
 2. Qemu
+3. VS Code(IDE)
 
 
 The Output of the Code is as follows:
