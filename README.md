@@ -14,7 +14,7 @@ The main components used in this assignemnt were:
 
 You can find full code on my Git repo https://github.com/Abdullah-Ramzan/CAO-Assignment.
 
-You can find code of this static site on repo https://abdullah-ramzan.github.io/
+You can find code of this static site (built on Hugo) on repo https://abdullah-ramzan.github.io/
 
 
 
